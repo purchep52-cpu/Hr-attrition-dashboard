@@ -59,7 +59,7 @@ The most important finding in this project - comparing attrition rates with and 
 =COUNTIFS(HRData[OverTime],"No",HRData[Attrition],"Yes")
 /COUNTIF(HRData[OverTime],"No")
 ```
-👉 View all formulas in the Dashboard sheet
+👉 👉 [View full workbook — hr_attrition_dashboard.xlsx](./excel/HR-Employee-Attrition.xlsx)
 ---
 📁 Repository Structure
 ```
